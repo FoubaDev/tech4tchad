@@ -40,8 +40,8 @@ données seront centralisées vers une région souhaitée par le ministère-
 
 ## Charte graphique
 N’ayant pas de l’existant, et étant du domaine de la santé, nous proposons ceci :
-- """couleur""" : verte,
-- """taille de police""" :16 pour le titre et 14 pour le texte,
-- """famille""": Times New Roman
+- **couleur** : verte,
+- **taille de police** :16 pour le titre et 14 pour le texte,
+- **famille**: Times New Roman
 - prise en charge de format vidéo, texte et image
 
